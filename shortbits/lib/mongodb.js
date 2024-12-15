@@ -1,3 +1,4 @@
+// https://www.codewithharry.com/blogpost/%60how-to-integrate-mongodb-into-your-nextjs-apps%60/
 // lib/mongodb.js
 
 import { MongoClient } from 'mongodb'
